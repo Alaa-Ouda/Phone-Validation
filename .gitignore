@@ -1,0 +1,18 @@
+# compiled output
+/frontend/dist
+/backend/target
+
+# dependencies
+/frontend/node_modules
+
+# IDEs and editors
+/.idea
+/backend/.idea
+/frontend/.idea
+
+# System Files
+/frontend/.DS_Store
+/backend/.DS_Store
+/backend/src/.DS_Store
+/backend/src/main/.DS_Store
+/backend/src/main/resources/.DS_Store
